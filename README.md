@@ -1,1 +1,1 @@
-# Ultrasonic-Sensot
+# Ultrasonic-Sensor
